@@ -1,0 +1,31 @@
+2020/11/01 03:17:50 Total servers joined: 3
+2020/11/01 03:17:50 Total servers joined: 3
+2020/11/01 03:17:50 Total servers joined: 3
+Test (2A): initial election ...
+2020/11/01 03:17:50 11.
+2020/11/01 03:17:51 144 Timeout by server 2...Converting to candidate
+2020/11/01 03:17:51 145 Time out value was: 375
+2020/11/01 03:17:51 Election initialed by: 2 for term: 1
+2020/11/01 03:17:51 Request vote recieved by server 0 with role: 0 from server 2
+2020/11/01 03:17:51  300 Updating current term of 0 from server 2
+2020/11/01 03:17:51 From 0 to 1
+2020/11/01 03:17:51 306 follower: server 0 is granting vote to: 2
+2020/11/01 03:17:51 308 Server 0 updating votedfor from -1 to 2
+2020/11/01 03:17:51 Request vote recieved by server 1 with role: 0 from server 2
+2020/11/01 03:17:51  300 Updating current term of 1 from server 2
+2020/11/01 03:17:51 From 0 to 1
+2020/11/01 03:17:51 306 follower: server 1 is granting vote to: 2
+2020/11/01 03:17:51 308 Server 1 updating votedfor from -1 to 2
+2020/11/01 03:17:51 435 true, true, true
+2020/11/01 03:17:51 435 replyTerm 1, Current Term, 1
+2020/11/01 03:17:51 388 2 recieved vote for term 1 by server 0
+2020/11/01 03:17:51 Majority cnt is : 2
+2020/11/01 03:17:51 Election won for term 1 by: 2 with vote cnt 2 for term 1
+2020/11/01 03:17:51 Server 1 recieved appendEntry from Leader: 2 for term: 1
+2020/11/01 03:17:51 Server 1 term is: 1
+2020/11/01 03:17:51 Server 0 recieved appendEntry from Leader: 2 for term: 1
+2020/11/01 03:17:51 Server 0 term is: 1
+2020/11/01 03:17:51 545 Updating current term of server 0 from server 2
+2020/11/01 03:17:51 545 Updating current term of server 1 from server 2
+2020/11/01 03:17:51 From 1 to 1
+2020/11/01 03:17:51 From 1 to 1
